@@ -1,0 +1,528 @@
+{
+  "businesses": [
+    {
+      "id": "vEHFralwUQAMKk-gyifvLw",
+      "alias": "burger-house-ann-arbor",
+      "name": "Burger House",
+      "image_url": "",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/burger-house-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
+      "review_count": 1,
+      "categories": [
+        { "alias": "burgers", "title": "Burgers" },
+        { "alias": "fooddeliveryservices", "title": "Food Delivery Services" }
+      ],
+      "rating": 3.0,
+      "coordinates": { "latitude": 42.27805, "longitude": -83.74169 },
+      "transactions": ["delivery", "pickup"],
+      "location": {
+        "address1": "605 E William St",
+        "address2": null,
+        "address3": null,
+        "city": "Ann Arbor",
+        "zip_code": "48104",
+        "country": "US",
+        "state": "MI",
+        "display_address": ["605 E William St", "Ann Arbor, MI 48104"]
+      },
+      "phone": "+17344154463",
+      "display_phone": "(734) 415-4463",
+      "distance": 594.8379974465486
+    },
+    {
+      "id": "NmLif8ZLWaB4zqPFOW9cTQ",
+      "alias": "subway-ann-arbor-16",
+      "name": "Subway",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EwKg06V_ru3VC_VKr2Tz2w/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-ann-arbor-16?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
+      "review_count": 4,
+      "categories": [
+        { "alias": "sandwiches", "title": "Sandwiches" },
+        { "alias": "hotdogs", "title": "Fast Food" }
+      ],
+      "rating": 2.0,
+      "coordinates": {
+        "latitude": 42.2847106307745,
+        "longitude": -83.7276562303305
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "1500 E Medical Ctr Dr",
+        "address2": "",
+        "address3": "University Hospital UH Cafe",
+        "city": "Ann Arbor",
+        "zip_code": "48109",
+        "country": "US",
+        "state": "MI",
+        "display_address": [
+          "1500 E Medical Ctr Dr",
+          "University Hospital UH Cafe",
+          "Ann Arbor, MI 48109"
+        ]
+      },
+      "phone": "+17349980420",
+      "display_phone": "(734) 998-0420",
+      "distance": 1832.4727884457536
+    },
+    {
+      "id": "aGz3K7noixE2TX017Lahug",
+      "alias": "fast-fido-dog-day-trips-ann-arbor",
+      "name": "Fast Fido Dog Day Trips",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/B7JL3aGPUb00qkq3Q6obMA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/fast-fido-dog-day-trips-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
+      "review_count": 2,
+      "categories": [
+        { "alias": "dogwalkers", "title": "Dog Walkers" },
+        { "alias": "dog_parks", "title": "Dog Parks" },
+        { "alias": "petboarding", "title": "Pet Boarding" }
+      ],
+      "rating": 3.0,
+      "coordinates": { "latitude": 42.26586, "longitude": -83.83386 },
+      "transactions": [],
+      "location": {
+        "address1": null,
+        "address2": "",
+        "address3": null,
+        "city": "Ann Arbor",
+        "zip_code": "48103",
+        "country": "US",
+        "state": "MI",
+        "display_address": ["Ann Arbor, MI 48103"]
+      },
+      "phone": "+17343281100",
+      "display_phone": "(734) 328-1100",
+      "distance": 7391.411839938853
+    },
+    {
+      "id": "zer41Q5CH95h-aW9w9r9mw",
+      "alias": "7-eleven-ann-arbor-3",
+      "name": "7-Eleven",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_RwaT3yPif3_nbG0aHpT3Q/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/7-eleven-ann-arbor-3?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
+      "review_count": 2,
+      "categories": [
+        { "alias": "convenience", "title": "Convenience Stores" },
+        { "alias": "coffee", "title": "Coffee & Tea" }
+      ],
+      "rating": 1.0,
+      "coordinates": {
+        "latitude": 42.2746077302692,
+        "longitude": -83.7328255176544
+      },
+      "transactions": ["delivery", "pickup"],
+      "price": "$",
+      "location": {
+        "address1": "1300 S University",
+        "address2": "",
+        "address3": "",
+        "city": "Ann Arbor",
+        "zip_code": "48104",
+        "country": "US",
+        "state": "MI",
+        "display_address": ["1300 S University", "Ann Arbor, MI 48104"]
+      },
+      "phone": "+17349977008",
+      "display_phone": "(734) 997-7008",
+      "distance": 858.3563685146881
+    },
+    {
+      "id": "3t38TV74pwIj0eAt3PeZrA",
+      "alias": "plymouth-way-park-ann-arbor",
+      "name": "Plymouth Way Park",
+      "image_url": "",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/plymouth-way-park-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
+      "review_count": 1,
+      "categories": [{ "alias": "parks", "title": "Parks" }],
+      "rating": 2.0,
+      "coordinates": { "latitude": 42.292051, "longitude": -83.736933 },
+      "transactions": [],
+      "location": {
+        "address1": "1101 Plymouth Rd",
+        "address2": "",
+        "address3": null,
+        "city": "Ann Arbor",
+        "zip_code": "48105",
+        "country": "US",
+        "state": "MI",
+        "display_address": ["1101 Plymouth Rd", "Ann Arbor, MI 48105"]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 2204.490837893868
+    },
+    {
+      "id": "EpX2073YRSUblcwK3ZDFmQ",
+      "alias": "stone-school-park-ann-arbor",
+      "name": "Stone School Park",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pxhK3BNu3UOl7WSjnUR60w/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/stone-school-park-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
+      "review_count": 1,
+      "categories": [{ "alias": "parks", "title": "Parks" }],
+      "rating": 2.0,
+      "coordinates": { "latitude": 42.2450984, "longitude": -83.7200249 },
+      "transactions": [],
+      "location": {
+        "address1": "2900 Stone School Rd",
+        "address2": "",
+        "address3": null,
+        "city": "Ann Arbor",
+        "zip_code": "48104",
+        "country": "US",
+        "state": "MI",
+        "display_address": ["2900 Stone School Rd", "Ann Arbor, MI 48104"]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 3487.261394773752
+    },
+    {
+      "id": "jb24vgqepGvA8d2XslejLg",
+      "alias": "wellington-park-ann-arbor",
+      "name": "Wellington Park",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qmuisMFcZKK5STIEZLadzQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/wellington-park-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
+      "review_count": 1,
+      "categories": [{ "alias": "parks", "title": "Parks" }],
+      "rating": 3.0,
+      "coordinates": { "latitude": 42.2869697, "longitude": -83.7727781 },
+      "transactions": [],
+      "location": {
+        "address1": "500 Bruce St",
+        "address2": "",
+        "address3": null,
+        "city": "Ann Arbor",
+        "zip_code": "48103",
+        "country": "US",
+        "state": "MI",
+        "display_address": ["500 Bruce St", "Ann Arbor, MI 48103"]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 2936.3995160982
+    },
+    {
+      "id": "P4vcK11GF4mC2J5t0lRA3Q",
+      "alias": "brookside-park-ann-arbor",
+      "name": "Brookside Park",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TlCFyzk4jLL_B4YibJcRcQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/brookside-park-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
+      "review_count": 1,
+      "categories": [{ "alias": "parks", "title": "Parks" }],
+      "rating": 3.0,
+      "coordinates": { "latitude": 42.2445599, "longitude": -83.7196901 },
+      "transactions": [],
+      "location": {
+        "address1": "3001 Stone School Rd",
+        "address2": "",
+        "address3": null,
+        "city": "Ann Arbor",
+        "zip_code": "48104",
+        "country": "US",
+        "state": "MI",
+        "display_address": ["3001 Stone School Rd", "Ann Arbor, MI 48104"]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 3631.9830245266116
+    },
+    {
+      "id": "XkmaEFxPRUBm-Uu8e9cu0A",
+      "alias": "starbucks-ann-arbor-13",
+      "name": "Starbucks",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KY5O6uTMs6xY9QF5uKFkew/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/starbucks-ann-arbor-13?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
+      "review_count": 2,
+      "categories": [{ "alias": "coffee", "title": "Coffee & Tea" }],
+      "rating": 1.0,
+      "coordinates": { "latitude": 42.24375971, "longitude": -83.76958175 },
+      "transactions": ["delivery"],
+      "price": "$$",
+      "location": {
+        "address1": "2000 W Waters Rd",
+        "address2": "",
+        "address3": "Target",
+        "city": "Ann Arbor",
+        "zip_code": "48103",
+        "country": "US",
+        "state": "MI",
+        "display_address": ["2000 W Waters Rd", "Target", "Ann Arbor, MI 48103"]
+      },
+      "phone": "+17349960700",
+      "display_phone": "(734) 996-0700",
+      "distance": 3896.090514116947
+    },
+    {
+      "id": "oeEiNsJ0vrw10CUjEnPtJQ",
+      "alias": "foods-of-india-ann-arbor-5",
+      "name": "Foods of India",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FDLlJPLJoEz5lK-qBMTxiQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/foods-of-india-ann-arbor-5?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
+      "review_count": 7,
+      "categories": [{ "alias": "indpak", "title": "Indian" }],
+      "rating": 3.5,
+      "coordinates": { "latitude": 42.2906647, "longitude": -83.7366714 },
+      "transactions": ["delivery", "pickup"],
+      "location": {
+        "address1": "1143 Broadway St",
+        "address2": null,
+        "address3": null,
+        "city": "Ann Arbor",
+        "zip_code": "48105",
+        "country": "US",
+        "state": "MI",
+        "display_address": ["1143 Broadway St", "Ann Arbor, MI 48105"]
+      },
+      "phone": "+17346220115",
+      "display_phone": "(734) 622-0115",
+      "distance": 2069.8846216990232
+    },
+    {
+      "id": "xTly9TM79YlQb8fGSo6Vgw",
+      "alias": "maryfield-wildwood-park-ann-arbor",
+      "name": "Maryfield Wildwood Park",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zSUIT5d_1WLdOXyelrxwEQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/maryfield-wildwood-park-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
+      "review_count": 2,
+      "categories": [{ "alias": "parks", "title": "Parks" }],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": 42.28423797259805,
+        "longitude": -83.76867404110446
+      },
+      "transactions": [],
+      "location": {
+        "address1": "1705 Linwood Ave",
+        "address2": "",
+        "address3": null,
+        "city": "Ann Arbor",
+        "zip_code": "48103",
+        "country": "US",
+        "state": "MI",
+        "display_address": ["1705 Linwood Ave", "Ann Arbor, MI 48103"]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 2473.9440787391313
+    },
+    {
+      "id": "Y6DbIcu2WjIzezp23pxXeg",
+      "alias": "motor-city-franks-pleasant-ridge-2",
+      "name": "Motor City Franks",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GPln39N5R-Pvd-KWyxwwbg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/motor-city-franks-pleasant-ridge-2?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
+      "review_count": 4,
+      "categories": [
+        { "alias": "foodtrucks", "title": "Food Trucks" },
+        { "alias": "hotdog", "title": "Hot Dogs" }
+      ],
+      "rating": 5.0,
+      "coordinates": {
+        "latitude": 42.47130634958224,
+        "longitude": -83.14433489937169
+      },
+      "transactions": [],
+      "location": {
+        "address1": "",
+        "address2": "",
+        "address3": "",
+        "city": "Pleasant Ridge",
+        "zip_code": "48069",
+        "country": "US",
+        "state": "MI",
+        "display_address": ["Pleasant Ridge, MI 48069"]
+      },
+      "phone": "+12487895739",
+      "display_phone": "(248) 789-5739",
+      "distance": 53904.99387650378
+    },
+    {
+      "id": "odi32rKOiWuYc1lFwrdOiA",
+      "alias": "broadway-dog-park-ann-arbor",
+      "name": "Broadway Dog Park",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cJF9hGpv2SvGZPdVSkRMeg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/broadway-dog-park-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
+      "review_count": 3,
+      "categories": [{ "alias": "dog_parks", "title": "Dog Parks" }],
+      "rating": 3.5,
+      "coordinates": { "latitude": 42.287514, "longitude": -83.740369 },
+      "transactions": [],
+      "location": {
+        "address1": "Canal St",
+        "address2": "",
+        "address3": null,
+        "city": "Ann Arbor",
+        "zip_code": "48105",
+        "country": "US",
+        "state": "MI",
+        "display_address": ["Canal St", "Ann Arbor, MI 48105"]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 1658.07352502057
+    },
+    {
+      "id": "d6JFIeFSoRVq8ygS9QKaxA",
+      "alias": "wolverine-sushi-bar-ann-arbor-3",
+      "name": "Wolverine Sushi Bar",
+      "image_url": "",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/wolverine-sushi-bar-ann-arbor-3?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
+      "review_count": 1,
+      "categories": [{ "alias": "sushi", "title": "Sushi Bars" }],
+      "rating": 2.0,
+      "coordinates": { "latitude": 42.2822781, "longitude": -83.74629115 },
+      "transactions": [],
+      "location": {
+        "address1": "Downtown Ann Arbor",
+        "address2": "",
+        "address3": null,
+        "city": "Ann Arbor",
+        "zip_code": "48104",
+        "country": "US",
+        "state": "MI",
+        "display_address": ["Downtown Ann Arbor", "Ann Arbor, MI 48104"]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 900.8160276072865
+    },
+    {
+      "id": "QbSCJ5OvkfXqbfsu7PSkFQ",
+      "alias": "eberbach-cultural-arts-center-ann-arbor",
+      "name": "Eberbach Cultural Arts Center",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/dbjhHjbPVS6xtoOgMfL7Sw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/eberbach-cultural-arts-center-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
+      "review_count": 1,
+      "categories": [
+        { "alias": "theater", "title": "Performing Arts" },
+        { "alias": "localflavor", "title": "Local Flavor" }
+      ],
+      "rating": 3.0,
+      "coordinates": { "latitude": 42.2665672, "longitude": -83.7327576 },
+      "transactions": [],
+      "location": {
+        "address1": "1220 S Forest Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Ann Arbor",
+        "zip_code": "48104",
+        "country": "US",
+        "state": "MI",
+        "display_address": ["1220 S Forest Ave", "Ann Arbor, MI 48104"]
+      },
+      "phone": "+17349942900",
+      "display_phone": "(734) 994-2900",
+      "distance": 1085.9609820055425
+    },
+    {
+      "id": "xE2I0C6uWcx2mstg-j45yA",
+      "alias": "whoa-tacos-metro-detroit",
+      "name": "\u00a1Whoa! Tacos",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/t0TidFd50LUU7mzaLEJZuw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/whoa-tacos-metro-detroit?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
+      "review_count": 6,
+      "categories": [
+        { "alias": "foodtrucks", "title": "Food Trucks" },
+        { "alias": "catering", "title": "Caterers" },
+        { "alias": "tacos", "title": "Tacos" }
+      ],
+      "rating": 3.5,
+      "coordinates": { "latitude": 42.35800171, "longitude": -83.21499634 },
+      "transactions": [],
+      "location": {
+        "address1": null,
+        "address2": null,
+        "address3": null,
+        "city": "Metro Detroit",
+        "zip_code": "48393",
+        "country": "US",
+        "state": "MI",
+        "display_address": ["Metro Detroit, MI 48393"]
+      },
+      "phone": "+17347162646",
+      "display_phone": "(734) 716-2646",
+      "distance": 31809.88790661156
+    },
+    {
+      "id": "j403m44PJ0jCzcaRC_kFfw",
+      "alias": "very-berry-ann-arbor",
+      "name": "Very Berry",
+      "image_url": "",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/very-berry-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
+      "review_count": 4,
+      "categories": [{ "alias": "sandwiches", "title": "Sandwiches" }],
+      "rating": 2.0,
+      "coordinates": {
+        "latitude": 42.2412270894108,
+        "longitude": -83.748779296875
+      },
+      "transactions": ["delivery"],
+      "price": "$",
+      "location": {
+        "address1": "100 Briarwood Cir",
+        "address2": "",
+        "address3": "",
+        "city": "Ann Arbor",
+        "zip_code": "48108",
+        "country": "US",
+        "state": "MI",
+        "display_address": ["100 Briarwood Cir", "Ann Arbor, MI 48108"]
+      },
+      "phone": "+17349979277",
+      "display_phone": "(734) 997-9277",
+      "distance": 3535.1515170547227
+    },
+    {
+      "id": "4WD8MHDHpl_JFzbmduodyQ",
+      "alias": "little-mac-shack-ann-arbor-2",
+      "name": "Little Mac Shack",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QKtLUMeZMoENOiEg1vopww/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/little-mac-shack-ann-arbor-2?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
+      "review_count": 1,
+      "categories": [
+        { "alias": "fooddeliveryservices", "title": "Food Delivery Services" },
+        { "alias": "chickenshop", "title": "Chicken Shop" }
+      ],
+      "rating": 1.0,
+      "coordinates": {
+        "latitude": 42.26427520872038,
+        "longitude": -83.71702803240787
+      },
+      "transactions": ["delivery"],
+      "location": {
+        "address1": "",
+        "address2": null,
+        "address3": null,
+        "city": "Ann Arbor",
+        "zip_code": "48104",
+        "country": "US",
+        "state": "MI",
+        "display_address": ["Ann Arbor, MI 48104"]
+      },
+      "phone": "+17349975399",
+      "display_phone": "(734) 997-5399",
+      "distance": 2330.1854880262767
+    }
+  ],
+  "total": 418,
+  "region": {
+    "center": { "longitude": -83.7429428100586, "latitude": 42.27272466273146 }
+  }
+}
