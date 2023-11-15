@@ -3246,32 +3246,6 @@
       "distance": 911.5829236362922
     },
     {
-      "id": "OsFjnqRz8-dgSlY0GHv6Mw",
-      "alias": "university-of-michigan-museum-of-art-ann-arbor",
-      "name": "University of Michigan Museum of Art",
-      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0FGXHXvXcfcFnGqZVn-KqA/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/university-of-michigan-museum-of-art-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 48,
-      "categories": [{ "alias": "artmuseums", "title": "Art Museums" }],
-      "rating": 4.5,
-      "coordinates": { "latitude": 42.276802, "longitude": -83.738288 },
-      "transactions": [],
-      "location": {
-        "address1": "525 S State St",
-        "address2": "",
-        "address3": "",
-        "city": "Ann Arbor",
-        "zip_code": "48109",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["525 S State St", "Ann Arbor, MI 48109"]
-      },
-      "phone": "+17347640395",
-      "display_phone": "(734) 764-0395",
-      "distance": 385.29152432784366
-    },
-    {
       "id": "oZFoTjiL78EB306hi6VfaA",
       "alias": "asian-legend-ann-arbor",
       "name": "Asian Legend",
@@ -3393,35 +3367,6 @@
       "phone": "",
       "display_phone": "",
       "distance": 2052.7826420924252
-    },
-    {
-      "id": "_wDVgYIaa42g3Wz5jNTxZQ",
-      "alias": "university-of-michigan-museum-of-natural-history-ann-arbor",
-      "name": "University of Michigan Museum of Natural History",
-      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gOgyeI1kcyzFPJXVQKrjTg/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/university-of-michigan-museum-of-natural-history-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 71,
-      "categories": [{ "alias": "museums", "title": "Museums" }],
-      "rating": 4.5,
-      "coordinates": {
-        "latitude": 42.278965375272264,
-        "longitude": -83.7345262139885
-      },
-      "transactions": [],
-      "location": {
-        "address1": "1105 N University",
-        "address2": "",
-        "address3": "",
-        "city": "Ann Arbor",
-        "zip_code": "48109",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["1105 N University", "Ann Arbor, MI 48109"]
-      },
-      "phone": "+17347640478",
-      "display_phone": "(734) 764-0478",
-      "distance": 980.3387033244467
     },
     {
       "id": "CVAQh-eDHMmr8y461JjKww",
@@ -3605,35 +3550,6 @@
       "phone": "+17343023511",
       "display_phone": "(734) 302-3511",
       "distance": 790.9547734800682
-    },
-    {
-      "id": "DjBkZ54eI8S3HuPbBtewyQ",
-      "alias": "nichols-arboretum-ann-arbor",
-      "name": "Nichols Arboretum",
-      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vfKos9SBf-UpcHZKT-ng3A/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/nichols-arboretum-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 125,
-      "categories": [{ "alias": "parks", "title": "Parks" }],
-      "rating": 4.5,
-      "coordinates": {
-        "latitude": 42.2813875044681,
-        "longitude": -83.7266266199722
-      },
-      "transactions": [],
-      "location": {
-        "address1": "1600 Washington Hts",
-        "address2": "",
-        "address3": "",
-        "city": "Ann Arbor",
-        "zip_code": "48104",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["1600 Washington Hts", "Ann Arbor, MI 48104"]
-      },
-      "phone": "+17349989540",
-      "display_phone": "(734) 998-9540",
-      "distance": 1549.321553142622
     },
     {
       "id": "GI86ah7SkyhlTumihQKqiw",
@@ -5101,34 +5017,6 @@
       "distance": 1196.4134448724003
     },
     {
-      "id": "5thmyCEzJMmAv4BiaHbsrw",
-      "alias": "ann-arbor-hands-on-museum-ann-arbor",
-      "name": "Ann Arbor Hands-On Museum",
-      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/i6WCxO1hV7JRGmx47wFWsQ/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/ann-arbor-hands-on-museum-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 94,
-      "categories": [
-        { "alias": "childrensmuseums", "title": "Children's Museums" }
-      ],
-      "rating": 4.0,
-      "coordinates": { "latitude": 42.281725, "longitude": -83.746538 },
-      "transactions": [],
-      "location": {
-        "address1": "220 E Ann St",
-        "address2": "",
-        "address3": "",
-        "city": "Ann Arbor",
-        "zip_code": "48104",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["220 E Ann St", "Ann Arbor, MI 48104"]
-      },
-      "phone": "+17349955439",
-      "display_phone": "(734) 995-5439",
-      "distance": 1043.586033498125
-    },
-    {
       "id": "IhhVZa6N1eQSJYcg25X0zg",
       "alias": "sweetwaters-coffee-and-tea-ann-arbor-4",
       "name": "Sweetwaters Coffee & Tea",
@@ -5193,35 +5081,6 @@
       "distance": 1280.4123917427978
     },
     {
-      "id": "32cnuovNBQ76k1vTprfd_g",
-      "alias": "fairy-doors-of-ann-arbor-ann-arbor",
-      "name": "Fairy Doors of Ann Arbor",
-      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/b_vVndjuFPr6gy8hbPACeg/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/fairy-doors-of-ann-arbor-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 37,
-      "categories": [{ "alias": "localflavor", "title": "Local Flavor" }],
-      "rating": 5.0,
-      "coordinates": {
-        "latitude": 42.2632751464844,
-        "longitude": -83.7184753417969
-      },
-      "transactions": [],
-      "location": {
-        "address1": "",
-        "address2": "",
-        "address3": "",
-        "city": "Ann Arbor",
-        "zip_code": "48104",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["Ann Arbor, MI 48104"]
-      },
-      "phone": "",
-      "display_phone": "",
-      "distance": 2446.095150099558
-    },
-    {
       "id": "IJYlETrRrqlNqlMC7HC7Fw",
       "alias": "ayses-turkish-cafe-ann-arbor",
       "name": "Ayse's Turkish Cafe",
@@ -5253,36 +5112,6 @@
       "phone": "+17346621711",
       "display_phone": "(734) 662-1711",
       "distance": 3406.69597529847
-    },
-    {
-      "id": "lwu21GRTpsWb29n0ae8Wgw",
-      "alias": "ann-arbor-street-art-fair-ann-arbor",
-      "name": "Ann Arbor Street Art Fair",
-      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HTRWnTJS2pKAHeTRHtsW0w/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/ann-arbor-street-art-fair-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 37,
-      "categories": [{ "alias": "localflavor", "title": "Local Flavor" }],
-      "rating": 4.0,
-      "coordinates": { "latitude": 42.2814102, "longitude": -83.7399063 },
-      "transactions": [],
-      "location": {
-        "address1": "721 E Huron St",
-        "address2": "",
-        "address3": "Downtown and On Campus",
-        "city": "Ann Arbor",
-        "zip_code": "48104",
-        "country": "US",
-        "state": "MI",
-        "display_address": [
-          "721 E Huron St",
-          "Downtown and On Campus",
-          "Ann Arbor, MI 48104"
-        ]
-      },
-      "phone": "+17349945260",
-      "display_phone": "(734) 994-5260",
-      "distance": 998.9632490819711
     },
     {
       "id": "weWRAQrnmTYAtvop5m3HKA",
@@ -5564,61 +5393,6 @@
       "phone": "+17347694225",
       "display_phone": "(734) 769-4225",
       "distance": 977.3369799956098
-    },
-    {
-      "id": "XAvkJjynebALazEr2ye_cQ",
-      "alias": "kelsey-museum-of-archaeology-ann-arbor",
-      "name": "Kelsey Museum of Archaeology",
-      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/r4Gm-SaKip7dxS9Ey6D1WA/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/kelsey-museum-of-archaeology-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 14,
-      "categories": [{ "alias": "museums", "title": "Museums" }],
-      "rating": 4.5,
-      "coordinates": { "latitude": 42.2772354, "longitude": -83.7408849 },
-      "transactions": [],
-      "location": {
-        "address1": "434 S State St",
-        "address2": "",
-        "address3": "",
-        "city": "Ann Arbor",
-        "zip_code": "48109",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["434 S State St", "Ann Arbor, MI 48109"]
-      },
-      "phone": "+17347649304",
-      "display_phone": "(734) 764-9304",
-      "distance": 461.3058701559378
-    },
-    {
-      "id": "Faj0_Ra5m72IJgIVwmAtrw",
-      "alias": "the-diag-ann-arbor",
-      "name": "The Diag",
-      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UtZZA5hyd_pY53-p_hpBGw/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/the-diag-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 15,
-      "categories": [{ "alias": "parks", "title": "Parks" }],
-      "rating": 4.5,
-      "coordinates": {
-        "latitude": 42.27696893290469,
-        "longitude": -83.73819836096396
-      },
-      "transactions": [],
-      "location": {
-        "address1": "913 S. University Ave",
-        "address2": "",
-        "address3": "",
-        "city": "Ann Arbor",
-        "zip_code": "48109",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["913 S. University Ave", "Ann Arbor, MI 48109"]
-      },
-      "phone": "",
-      "display_phone": "",
-      "distance": 612.4577575621266
     },
     {
       "id": "nZNoTZ0bqVW-4EG1Aymr_g",
@@ -6591,35 +6365,6 @@
       "distance": 851.7030975379878
     },
     {
-      "id": "xU-pwqfvS3zVu-XAhIut8A",
-      "alias": "argo-canoe-livery-ann-arbor-2",
-      "name": "Argo Canoe Livery",
-      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/798rtA4q0CDmfjAudFrNiw/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/argo-canoe-livery-ann-arbor-2?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 50,
-      "categories": [{ "alias": "parks", "title": "Parks" }],
-      "rating": 4.0,
-      "coordinates": {
-        "latitude": 42.29149378784313,
-        "longitude": -83.74444348420504
-      },
-      "transactions": [],
-      "location": {
-        "address1": "1055 Longshore Dr",
-        "address2": "",
-        "address3": "",
-        "city": "Ann Arbor",
-        "zip_code": "48105",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["1055 Longshore Dr", "Ann Arbor, MI 48105"]
-      },
-      "phone": "+17347946241",
-      "display_phone": "(734) 794-6241",
-      "distance": 2090.677394005908
-    },
-    {
       "id": "lmLvzwceJK_4fI1MayBb4A",
       "alias": "anthonys-gourmet-pizza-ann-arbor-4",
       "name": "Anthony's Gourmet Pizza",
@@ -6838,32 +6583,6 @@
       "phone": "+17343279041",
       "display_phone": "(734) 327-9041",
       "distance": 676.4245298099377
-    },
-    {
-      "id": "7UFbyRza8GDLSzdMeIqvsg",
-      "alias": "burton-tower-ann-arbor",
-      "name": "Burton Tower",
-      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ctv9I9qCv3SxTSOgV_A0JA/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/burton-tower-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 6,
-      "categories": [{ "alias": "localflavor", "title": "Local Flavor" }],
-      "rating": 5.0,
-      "coordinates": { "latitude": 42.2794374, "longitude": -83.738707 },
-      "transactions": [],
-      "location": {
-        "address1": "230 N Ingalls St",
-        "address2": "",
-        "address3": "",
-        "city": "Ann Arbor",
-        "zip_code": "48104",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["230 N Ingalls St", "Ann Arbor, MI 48104"]
-      },
-      "phone": "+17347644414",
-      "display_phone": "(734) 764-4414",
-      "distance": 823.7695837634081
     },
     {
       "id": "lkfkdmxdiLHLLHUreTZ6Jg",
@@ -8058,32 +7777,6 @@
       "distance": 290.7782436059199
     },
     {
-      "id": "JNxScjEi_x04vIFyN_vm8Q",
-      "alias": "bandemer-park-ann-arbor",
-      "name": "Bandemer Park",
-      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gbcB8SdtBjiyrMDfnjg3lQ/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/bandemer-park-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 11,
-      "categories": [{ "alias": "parks", "title": "Parks" }],
-      "rating": 4.5,
-      "coordinates": { "latitude": 42.299803, "longitude": -83.743556 },
-      "transactions": [],
-      "location": {
-        "address1": "1352 Lake Shore Dr",
-        "address2": null,
-        "address3": "",
-        "city": "Ann Arbor",
-        "zip_code": "48104",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["1352 Lake Shore Dr", "Ann Arbor, MI 48104"]
-      },
-      "phone": "+17347946230",
-      "display_phone": "(734) 794-6230",
-      "distance": 3011.3928722586165
-    },
-    {
       "id": "58BpxocD5VIrHRgCHL75fA",
       "alias": "eightball-saloon-ann-arbor",
       "name": "Eightball Saloon",
@@ -8750,39 +8443,6 @@
       "distance": 472.33500195196166
     },
     {
-      "id": "LTX1jYwVwTljSWb5QVRuaw",
-      "alias": "ann-arbor-film-festival-ann-arbor",
-      "name": "Ann Arbor Film Festival",
-      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dTqn7JPkzvBX8cyyTlZRWA/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/ann-arbor-film-festival-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 4,
-      "categories": [
-        { "alias": "movietheaters", "title": "Cinema" },
-        { "alias": "localflavor", "title": "Local Flavor" }
-      ],
-      "rating": 4.5,
-      "coordinates": { "latitude": 42.2789612, "longitude": -83.7411423 },
-      "transactions": [],
-      "location": {
-        "address1": "308 1/2 S State St",
-        "address2": "Ste 31",
-        "address3": "",
-        "city": "Ann Arbor",
-        "zip_code": "48104",
-        "country": "US",
-        "state": "MI",
-        "display_address": [
-          "308 1/2 S State St",
-          "Ste 31",
-          "Ann Arbor, MI 48104"
-        ]
-      },
-      "phone": "+17349955356",
-      "display_phone": "(734) 995-5356",
-      "distance": 709.425485889315
-    },
-    {
       "id": "9LIH-W3o98DQoY-hO20yQQ",
       "alias": "first-watch-ann-arbor",
       "name": "First Watch",
@@ -8812,35 +8472,6 @@
       "phone": "+17348221959",
       "display_phone": "(734) 822-1959",
       "distance": 3999.666841404158
-    },
-    {
-      "id": "msUj1ZbiCxj13JjwKq9tiA",
-      "alias": "allmendinger-park-ann-arbor",
-      "name": "Allmendinger Park",
-      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_k_iGt2baHn9v7MdY8z_gw/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/allmendinger-park-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 5,
-      "categories": [{ "alias": "parks", "title": "Parks" }],
-      "rating": 4.5,
-      "coordinates": { "latitude": 42.26844, "longitude": -83.75475 },
-      "transactions": [],
-      "location": {
-        "address1": "Pauline Blvd & Edgewood Ave",
-        "address2": "",
-        "address3": "",
-        "city": "Ann Arbor",
-        "zip_code": "48103",
-        "country": "US",
-        "state": "MI",
-        "display_address": [
-          "Pauline Blvd & Edgewood Ave",
-          "Ann Arbor, MI 48103"
-        ]
-      },
-      "phone": "",
-      "display_phone": "",
-      "distance": 1078.3201138151455
     },
     {
       "id": "8ur--e2ts1vNTnKiQdSjfQ",
@@ -9082,36 +8713,6 @@
       "phone": "+17347807344",
       "display_phone": "(734) 780-7344",
       "distance": 1203.619333478715
-    },
-    {
-      "id": "2u-ZI8XrTsx0IitQSHw_KA",
-      "alias": "blue-cafe-at-south-quad-ann-arbor",
-      "name": "Blue Cafe at South Quad",
-      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/S4JtXI5zC2BJyNG0QEXHGg/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/blue-cafe-at-south-quad-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 1,
-      "categories": [
-        { "alias": "coffee", "title": "Coffee & Tea" },
-        { "alias": "desserts", "title": "Desserts" },
-        { "alias": "cafes", "title": "Cafes" }
-      ],
-      "rating": 2.0,
-      "coordinates": { "latitude": 42.273711, "longitude": -83.742075 },
-      "transactions": [],
-      "location": {
-        "address1": "600 East Madison St",
-        "address2": null,
-        "address3": "",
-        "city": "Ann Arbor",
-        "zip_code": "48109",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["600 East Madison St", "Ann Arbor, MI 48109"]
-      },
-      "phone": "+17347635887",
-      "display_phone": "(734) 763-5887",
-      "distance": 125.66856041196716
     },
     {
       "id": "z2lMfuccsfYq-ZFrzxxWQA",
@@ -9391,35 +8992,6 @@
       "distance": 1095.9928241631947
     },
     {
-      "id": "HK_6kdKUqlnSzyJjgIwHFQ",
-      "alias": "ann-arbor-book-festival-ann-arbor",
-      "name": "Ann Arbor Book Festival",
-      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/O7nNY-EKftbPjx3Qo06qIA/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/ann-arbor-book-festival-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 2,
-      "categories": [
-        { "alias": "localflavor", "title": "Local Flavor" },
-        { "alias": "arts", "title": "Arts & Entertainment" }
-      ],
-      "rating": 5.0,
-      "coordinates": { "latitude": 42.2759812, "longitude": -83.7489623 },
-      "transactions": [],
-      "location": {
-        "address1": "500 S Main St",
-        "address2": "",
-        "address3": "",
-        "city": "Ann Arbor",
-        "zip_code": "48104",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["500 S Main St", "Ann Arbor, MI 48104"]
-      },
-      "phone": "+17343693366",
-      "display_phone": "(734) 369-3366",
-      "distance": 630.2858069264721
-    },
-    {
       "id": "bUGQi68-IU9vqZXaZsHUqw",
       "alias": "jets-pizza-ann-arbor-2",
       "name": "Jet's Pizza",
@@ -9512,32 +9084,6 @@
       "distance": 767.4733423104241
     },
     {
-      "id": "Zlgmw0UhT5dHPCWsXxO1Vg",
-      "alias": "west-park-ann-arbor",
-      "name": "West Park",
-      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/XAETopWqN6adE89UuGae1g/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/west-park-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 4,
-      "categories": [{ "alias": "parks", "title": "Parks" }],
-      "rating": 5.0,
-      "coordinates": { "latitude": 42.2829669, "longitude": -83.7535754 },
-      "transactions": [],
-      "location": {
-        "address1": "205 Chapin St",
-        "address2": "",
-        "address3": "",
-        "city": "Ann Arbor",
-        "zip_code": "48103",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["205 Chapin St", "Ann Arbor, MI 48103"]
-      },
-      "phone": "",
-      "display_phone": "",
-      "distance": 1442.4643311394973
-    },
-    {
       "id": "Yghp6qTirK4CQZWn62iM4A",
       "alias": "lucky-kitchen-ann-arbor-5",
       "name": "Lucky Kitchen",
@@ -9572,37 +9118,6 @@
       "distance": 3367.310395020599
     },
     {
-      "id": "6ZnzqJZSakBZIfwa-4Rumw",
-      "alias": "washtenaw-county-courthouse-ann-arbor",
-      "name": "Washtenaw County Courthouse",
-      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/V_1HmBrqTd4F4JPoj-xKfg/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/washtenaw-county-courthouse-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 4,
-      "categories": [
-        { "alias": "landmarks", "title": "Landmarks & Historical Buildings" }
-      ],
-      "rating": 4.5,
-      "coordinates": {
-        "latitude": 42.281786639916,
-        "longitude": -83.748111126471
-      },
-      "transactions": [],
-      "location": {
-        "address1": "200 N Main St",
-        "address2": "",
-        "address3": "",
-        "city": "Ann Arbor",
-        "zip_code": "48104",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["200 N Main St", "Ann Arbor, MI 48104"]
-      },
-      "phone": "",
-      "display_phone": "",
-      "distance": 1093.6879183896442
-    },
-    {
       "id": "k6a-sVgoOfbykq7YjzbDGA",
       "alias": "panera-bread-ann-arbor-5",
       "name": "Panera Bread",
@@ -9635,38 +9150,6 @@
       "phone": "+17342135800",
       "display_phone": "(734) 213-5800",
       "distance": 3290.0649609680145
-    },
-    {
-      "id": "KrgnwWVnq2oqXKufIJIwUw",
-      "alias": "island-park-ann-arbor",
-      "name": "Island Park",
-      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VupGnQLtPP6X8FDbSC0CTg/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/island-park-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 8,
-      "categories": [
-        { "alias": "parks", "title": "Parks" },
-        { "alias": "rafting", "title": "Rafting/Kayaking" }
-      ],
-      "rating": 4.5,
-      "coordinates": {
-        "latitude": 42.2911475754106,
-        "longitude": -83.7286251783371
-      },
-      "transactions": [],
-      "location": {
-        "address1": "1450 Island Dr",
-        "address2": "",
-        "address3": "",
-        "city": "Ann Arbor",
-        "zip_code": "48105",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["1450 Island Dr", "Ann Arbor, MI 48105"]
-      },
-      "phone": "",
-      "display_phone": "",
-      "distance": 2363.016943353405
     },
     {
       "id": "OTLUg4tVOSkRghMOLBwgKA",
@@ -10200,41 +9683,6 @@
       "distance": 3523.757562904193
     },
     {
-      "id": "yEzk43SpMeYwBvC6cqzg2Q",
-      "alias": "wurster-park-ann-arbor",
-      "name": "Wurster Park",
-      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FbdwxDBJDexGxc_IbG1sew/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/wurster-park-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 2,
-      "categories": [
-        { "alias": "parks", "title": "Parks" },
-        { "alias": "playgrounds", "title": "Playgrounds" }
-      ],
-      "rating": 4.5,
-      "coordinates": {
-        "latitude": 42.2723215706012,
-        "longitude": -83.7546101062607
-      },
-      "transactions": [],
-      "location": {
-        "address1": "599 W Madison St Fourth Ave",
-        "address2": "",
-        "address3": "",
-        "city": "Ann Arbor",
-        "zip_code": "48104",
-        "country": "US",
-        "state": "MI",
-        "display_address": [
-          "599 W Madison St Fourth Ave",
-          "Ann Arbor, MI 48104"
-        ]
-      },
-      "phone": "+17347946230",
-      "display_phone": "(734) 794-6230",
-      "distance": 961.01942213072
-    },
-    {
       "id": "ZCpyHYN9nQ7nIfWF91AvTA",
       "alias": "the-garage-bar-ann-arbor",
       "name": "The Garage Bar",
@@ -10502,34 +9950,6 @@
       "distance": 2224.454684289169
     },
     {
-      "id": "iEt4BUo6HCfU2k9WmPN4Iw",
-      "alias": "the-rock-george-washington-park-ann-arbor",
-      "name": "The Rock - George Washington Park",
-      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/C9yRhmgGTlbjcF8C0yiwtw/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/the-rock-george-washington-park-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 1,
-      "categories": [
-        { "alias": "landmarks", "title": "Landmarks & Historical Buildings" }
-      ],
-      "rating": 5.0,
-      "coordinates": { "latitude": 42.2724, "longitude": -83.72812 },
-      "transactions": [],
-      "location": {
-        "address1": "Washtenaw Ave & Hill St",
-        "address2": "",
-        "address3": null,
-        "city": "Ann Arbor",
-        "zip_code": "48104",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["Washtenaw Ave & Hill St", "Ann Arbor, MI 48104"]
-      },
-      "phone": "",
-      "display_phone": "",
-      "distance": 1224.241163034419
-    },
-    {
       "id": "SFaREIKrpDkZEeMEaJtkWA",
       "alias": "jibarito-ann-arbor-2",
       "name": "Jibarito",
@@ -10596,61 +10016,6 @@
       "distance": 3063.817675341816
     },
     {
-      "id": "1jc5ZiP4OnZblH--0iQ0ug",
-      "alias": "schembechler-halls-towsley-museum-ann-arbor",
-      "name": "Schembechler Hall's Towsley Museum",
-      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kgP1GZWAJkTrG_CZhKayKw/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/schembechler-halls-towsley-museum-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 1,
-      "categories": [{ "alias": "museums", "title": "Museums" }],
-      "rating": 5.0,
-      "coordinates": {
-        "latitude": 42.2674717864505,
-        "longitude": -83.7405861751881
-      },
-      "transactions": [],
-      "location": {
-        "address1": "1200 S State St",
-        "address2": "",
-        "address3": null,
-        "city": "Ann Arbor",
-        "zip_code": "48109",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["1200 S State St", "Ann Arbor, MI 48109"]
-      },
-      "phone": "+17346474310",
-      "display_phone": "(734) 647-4310",
-      "distance": 753.2745816226276
-    },
-    {
-      "id": "czg8zTlwxGnWdUB2-_WQtQ",
-      "alias": "shakespeare-in-the-arb-ann-arbor",
-      "name": "Shakespeare in the Arb",
-      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BcRk0mgY1QoHgbh6YmpTQw/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/shakespeare-in-the-arb-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 2,
-      "categories": [{ "alias": "gardens", "title": "Botanical Gardens" }],
-      "rating": 5.0,
-      "coordinates": { "latitude": 42.2804767, "longitude": -83.7264633 },
-      "transactions": [],
-      "location": {
-        "address1": "1610 Washington Heights",
-        "address2": "",
-        "address3": null,
-        "city": "Ann Arbor",
-        "zip_code": "48104",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["1610 Washington Heights", "Ann Arbor, MI 48104"]
-      },
-      "phone": "+17346477600",
-      "display_phone": "(734) 647-7600",
-      "distance": 1593.0777743114438
-    },
-    {
       "id": "Rq8eGsfJzN0-N1ElnIJOsg",
       "alias": "lunas-mexican-street-food-ann-arbor",
       "name": "Luna's Mexican Street Food",
@@ -10709,38 +10074,6 @@
       "phone": "+17346655588",
       "display_phone": "(734) 665-5588",
       "distance": 1787.033407632508
-    },
-    {
-      "id": "47hm1yhTIThhP9GEyUW_cQ",
-      "alias": "miller-nature-area-ann-arbor",
-      "name": "Miller Nature Area",
-      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/85jKNo-i7wAO5J_uSEpCSw/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/miller-nature-area-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 3,
-      "categories": [{ "alias": "parks", "title": "Parks" }],
-      "rating": 5.0,
-      "coordinates": {
-        "latitude": 42.2860650590966,
-        "longitude": -83.7677104627037
-      },
-      "transactions": [],
-      "location": {
-        "address1": "Arborview Blvd And Wildwood Ave",
-        "address2": "",
-        "address3": "",
-        "city": "Ann Arbor",
-        "zip_code": "48103",
-        "country": "US",
-        "state": "MI",
-        "display_address": [
-          "Arborview Blvd And Wildwood Ave",
-          "Ann Arbor, MI 48103"
-        ]
-      },
-      "phone": "",
-      "display_phone": "",
-      "distance": 2531.155290427905
     },
     {
       "id": "YonzlyiwHbXwTbkOTEmaYA",
@@ -10803,35 +10136,6 @@
       "phone": "",
       "display_phone": "",
       "distance": 233.13612445836225
-    },
-    {
-      "id": "CIyc6ZXykoUXBmVEFWcCmw",
-      "alias": "kempf-house-center-for-local-history-ann-arbor",
-      "name": "Kempf House Center For Local History",
-      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/I669NSHgGsMuOgAce-cs0g/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/kempf-house-center-for-local-history-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 2,
-      "categories": [{ "alias": "museums", "title": "Museums" }],
-      "rating": 4.0,
-      "coordinates": {
-        "latitude": 42.2789611816406,
-        "longitude": -83.744384765625
-      },
-      "transactions": [],
-      "location": {
-        "address1": "312 S Division St",
-        "address2": "",
-        "address3": "",
-        "city": "Ann Arbor",
-        "zip_code": "48104",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["312 S Division St", "Ann Arbor, MI 48104"]
-      },
-      "phone": "+17349944898",
-      "display_phone": "(734) 994-4898",
-      "distance": 705.6009085955927
     },
     {
       "id": "xVl-67hQiYR5Hy9-xAqATQ",
@@ -11010,35 +10314,6 @@
       "distance": 2245.2395793666497
     },
     {
-      "id": "jfSwts7G3ARRk9Wp8If1GA",
-      "alias": "braun-court-ann-arbor",
-      "name": "Braun Court",
-      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/OSkRi1xMzYHKd9Ee8NGAsA/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/braun-court-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 1,
-      "categories": [
-        { "alias": "landmarks", "title": "Landmarks & Historical Buildings" },
-        { "alias": "localflavor", "title": "Local Flavor" }
-      ],
-      "rating": 5.0,
-      "coordinates": { "latitude": 42.28395, "longitude": -83.74729 },
-      "transactions": [],
-      "location": {
-        "address1": "327 Braun Ct",
-        "address2": "",
-        "address3": "",
-        "city": "Ann Arbor",
-        "zip_code": "48104",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["327 Braun Ct", "Ann Arbor, MI 48104"]
-      },
-      "phone": "",
-      "display_phone": "",
-      "distance": 1300.9189463143043
-    },
-    {
       "id": "1TePQJJFZcNV_tOiQZsyKg",
       "alias": "hibachi-san-ann-arbor-2",
       "name": "Hibachi-San",
@@ -11071,35 +10346,6 @@
       "phone": "+17347699231",
       "display_phone": "(734) 769-9231",
       "distance": 2929.1866585569937
-    },
-    {
-      "id": "c03EKEJExqEHVw8jrbX4_A",
-      "alias": "naked-mile-ann-arbor",
-      "name": "Naked Mile",
-      "image_url": "",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/naked-mile-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 1,
-      "categories": [{ "alias": "localflavor", "title": "Local Flavor" }],
-      "rating": 5.0,
-      "coordinates": {
-        "latitude": 42.2709197998047,
-        "longitude": -83.7733764648438
-      },
-      "transactions": [],
-      "location": {
-        "address1": "Um Central Campus",
-        "address2": "",
-        "address3": "",
-        "city": "Ann Arbor",
-        "zip_code": "48113",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["Um Central Campus", "Ann Arbor, MI 48113"]
-      },
-      "phone": "",
-      "display_phone": "",
-      "distance": 427.71662631216225
     },
     {
       "id": "1P59uDuwZrB4pfrAsrfDfw",
@@ -11194,69 +10440,6 @@
       "phone": "+17342324827",
       "display_phone": "(734) 232-4827",
       "distance": 1654.3636941896766
-    },
-    {
-      "id": "7SaZSknDU99OECCbJHJLtg",
-      "alias": "mosher-jordan-ann-arbor-2",
-      "name": "Mosher-Jordan",
-      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/U5u2bEKP0Up48vMtZz9Geg/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/mosher-jordan-ann-arbor-2?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 5,
-      "categories": [
-        { "alias": "cafeteria", "title": "Cafeteria" },
-        { "alias": "buffets", "title": "Buffets" }
-      ],
-      "rating": 3.0,
-      "coordinates": { "latitude": 42.280277, "longitude": -83.7312049 },
-      "transactions": [],
-      "price": "$$",
-      "location": {
-        "address1": "200 Observatory St",
-        "address2": "",
-        "address3": null,
-        "city": "Ann Arbor",
-        "zip_code": "48109",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["200 Observatory St", "Ann Arbor, MI 48109"]
-      },
-      "phone": "+17347642111",
-      "display_phone": "(734) 764-2111",
-      "distance": 1237.9641106984375
-    },
-    {
-      "id": "chuUS3vgVbZ7UeixGDHFVA",
-      "alias": "north-quad-ann-arbor",
-      "name": "North Quad",
-      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Je1OxsmH0J2OZjxnsZF6eg/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/north-quad-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 1,
-      "categories": [{ "alias": "cafeteria", "title": "Cafeteria" }],
-      "rating": 1.0,
-      "coordinates": {
-        "latitude": 42.280516864567886,
-        "longitude": -83.7401672
-      },
-      "transactions": [],
-      "location": {
-        "address1": "105 S State St",
-        "address2": "",
-        "address3": "North Quadrangle Residential And Academic Complex",
-        "city": "Ann Arbor",
-        "zip_code": "48109",
-        "country": "US",
-        "state": "MI",
-        "display_address": [
-          "105 S State St",
-          "North Quadrangle Residential And Academic Complex",
-          "Ann Arbor, MI 48109"
-        ]
-      },
-      "phone": "+17347640170",
-      "display_phone": "(734) 764-0170",
-      "distance": 896.040058350178
     },
     {
       "id": "cZvvO5MX1bKGX7BVaTRDFQ",
@@ -11372,35 +10555,6 @@
       "distance": 1391.5767391003703
     },
     {
-      "id": "105NS1Nxxk-vQC8vAPoRoA",
-      "alias": "markley-dining-hall-ann-arbor",
-      "name": "Markley Dining Hall",
-      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/d6eqU6w4-PwbiAI4niR6rQ/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/markley-dining-hall-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 5,
-      "categories": [{ "alias": "cafeteria", "title": "Cafeteria" }],
-      "rating": 3.5,
-      "coordinates": {
-        "latitude": 42.2808579658403,
-        "longitude": -83.7288211924997
-      },
-      "transactions": [],
-      "location": {
-        "address1": "1503 Washington Heights",
-        "address2": "",
-        "address3": null,
-        "city": "Ann Arbor",
-        "zip_code": "48109",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["1503 Washington Heights", "Ann Arbor, MI 48109"]
-      },
-      "phone": "+17347641151",
-      "display_phone": "(734) 764-1151",
-      "distance": 1472.3326569453857
-    },
-    {
       "id": "yNNDBMaPIWgJ1qJHyns1-Q",
       "alias": "fields-cafe-ann-arbor",
       "name": "Fields Cafe",
@@ -11456,34 +10610,6 @@
       "distance": 1279.2108575594254
     },
     {
-      "id": "83mBYA5APH8_0nDAtHc8Ww",
-      "alias": "regents-plaza-and-the-cube-endover-ann-arbor",
-      "name": "Regents Plaza and The Cube - Endover",
-      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/HgVUICOhGnDfUfjqL9B3Wg/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/regents-plaza-and-the-cube-endover-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 1,
-      "categories": [
-        { "alias": "landmarks", "title": "Landmarks & Historical Buildings" }
-      ],
-      "rating": 5.0,
-      "coordinates": { "latitude": 42.27613, "longitude": -83.74306 },
-      "transactions": [],
-      "location": {
-        "address1": "503 Thompson St",
-        "address2": "",
-        "address3": null,
-        "city": "Ann Arbor",
-        "zip_code": "48109",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["503 Thompson St", "Ann Arbor, MI 48109"]
-      },
-      "phone": "",
-      "display_phone": "",
-      "distance": 350.49049361391076
-    },
-    {
       "id": "O7xemoaQCVuYeg_FXbuHZQ",
       "alias": "prime-eatery-no-title",
       "name": "Prime Eatery",
@@ -11512,35 +10638,6 @@
       "phone": "+17346654430",
       "display_phone": "(734) 665-4430",
       "distance": 3415.9075440356837
-    },
-    {
-      "id": "MAmYMX-OJO9PwmzSOOyVIA",
-      "alias": "fuller-park-ann-arbor",
-      "name": "Fuller Park",
-      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/0Q8XrhsR_Atc8GQVT4QFdw/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/fuller-park-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 12,
-      "categories": [
-        { "alias": "playgrounds", "title": "Playgrounds" },
-        { "alias": "parks", "title": "Parks" }
-      ],
-      "rating": 3.5,
-      "coordinates": { "latitude": 42.2871849, "longitude": -83.7292649 },
-      "transactions": [],
-      "location": {
-        "address1": "1519 Fuller Rd",
-        "address2": "",
-        "address3": "",
-        "city": "Ann Arbor",
-        "zip_code": "48105",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["1519 Fuller Rd", "Ann Arbor, MI 48105"]
-      },
-      "phone": "+17349944263",
-      "display_phone": "(734) 994-4263",
-      "distance": 2033.1485397793554
     },
     {
       "id": "Xt3Rct7snosY5LmTysWHJw",
@@ -11637,35 +10734,6 @@
       "distance": 2330.1854880262767
     },
     {
-      "id": "wmI2OEGItYT_HPx8WthFbA",
-      "alias": "burns-park-ann-arbor",
-      "name": "Burns Park",
-      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/REg-IVVrojzpP7L5Y84wsA/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/burns-park-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 5,
-      "categories": [{ "alias": "parks", "title": "Parks" }],
-      "rating": 4.0,
-      "coordinates": {
-        "latitude": 42.2668980807066,
-        "longitude": -83.7269722670317
-      },
-      "transactions": [],
-      "location": {
-        "address1": "1200 Baldwin Ave",
-        "address2": "",
-        "address3": "",
-        "city": "Ann Arbor",
-        "zip_code": "48104",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["1200 Baldwin Ave", "Ann Arbor, MI 48104"]
-      },
-      "phone": "",
-      "display_phone": "",
-      "distance": 1458.6217698331304
-    },
-    {
       "id": "JgbDpZPIxUZK6esopuWd7A",
       "alias": "why-not-pie-ann-arbor-2",
       "name": "Why Not Pie",
@@ -11693,67 +10761,6 @@
       "phone": "+17347094630",
       "display_phone": "(734) 709-4630",
       "distance": 2446.095150099558
-    },
-    {
-      "id": "un-PSKa1EVzBny9Tag-dUg",
-      "alias": "barton-nature-area-ann-arbor",
-      "name": "Barton Nature Area",
-      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/txr1lNT9iEERv-H02pnZhg/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/barton-nature-area-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 4,
-      "categories": [
-        { "alias": "hiking", "title": "Hiking" },
-        { "alias": "parks", "title": "Parks" }
-      ],
-      "rating": 4.0,
-      "coordinates": {
-        "latitude": 42.3040076546024,
-        "longitude": -83.7532307269531
-      },
-      "transactions": [],
-      "location": {
-        "address1": "1010 W Huron River Dr",
-        "address2": "",
-        "address3": null,
-        "city": "Ann Arbor",
-        "zip_code": "48103",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["1010 W Huron River Dr", "Ann Arbor, MI 48103"]
-      },
-      "phone": "",
-      "display_phone": "",
-      "distance": 3579.968210049822
-    },
-    {
-      "id": "8fusBgUB5-27p1qm3mBuYA",
-      "alias": "african-american-cultural-and-historical-museum-ann-arbor",
-      "name": "African American Cultural & Historical Museum",
-      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/1y6ldj9ZTdo7lIiQ_vfQYQ/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/african-american-cultural-and-historical-museum-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 2,
-      "categories": [{ "alias": "museums", "title": "Museums" }],
-      "rating": 4.5,
-      "coordinates": {
-        "latitude": 42.29650401790712,
-        "longitude": -83.73705486739597
-      },
-      "transactions": [],
-      "location": {
-        "address1": "1528 Pontiac Trl",
-        "address2": null,
-        "address3": null,
-        "city": "Ann Arbor",
-        "zip_code": "48108",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["1528 Pontiac Trl", "Ann Arbor, MI 48108"]
-      },
-      "phone": "+17347611717",
-      "display_phone": "(734) 761-1717",
-      "distance": 2688.137995071802
     },
     {
       "id": "cBY4_sJSSqGveEAzxF-C5Q",
@@ -11819,152 +10826,6 @@
       "distance": 2928.65467804837
     },
     {
-      "id": "z_MMQecifV8YD6eXpM7kxw",
-      "alias": "museum-on-main-street-ann-arbor",
-      "name": "Museum on Main Street",
-      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Q3dwzgF8Brxt-fPwPfrnKw/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/museum-on-main-street-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 1,
-      "categories": [{ "alias": "museums", "title": "Museums" }],
-      "rating": 4.0,
-      "coordinates": {
-        "latitude": 42.2851600646973,
-        "longitude": -83.7480239868164
-      },
-      "transactions": [],
-      "location": {
-        "address1": "500 N Main St",
-        "address2": "",
-        "address3": "",
-        "city": "Ann Arbor",
-        "zip_code": "48104",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["500 N Main St", "Ann Arbor, MI 48104"]
-      },
-      "phone": "+17346629092",
-      "display_phone": "(734) 662-9092",
-      "distance": 1440.5289395874242
-    },
-    {
-      "id": "_DZPMmpXIomxgzpyhQnDRg",
-      "alias": "frisinger-park-ann-arbor",
-      "name": "Frisinger Park",
-      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/XjWcuJLmogf68_5sf7Lxdg/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/frisinger-park-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 2,
-      "categories": [{ "alias": "parks", "title": "Parks" }],
-      "rating": 4.5,
-      "coordinates": {
-        "latitude": 42.2601051927125,
-        "longitude": -83.7350789876359
-      },
-      "transactions": [],
-      "location": {
-        "address1": "East Stadium Blvd",
-        "address2": "",
-        "address3": "",
-        "city": "Ann Arbor",
-        "zip_code": "48104",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["East Stadium Blvd", "Ann Arbor, MI 48104"]
-      },
-      "phone": "",
-      "display_phone": "",
-      "distance": 1545.2348401138545
-    },
-    {
-      "id": "JhWP2wCnfU_XR9Aq-nCMTg",
-      "alias": "pittsfield-preserve-public-park-pittsfield-charter-township",
-      "name": "Pittsfield Preserve - Public Park",
-      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LPedj_zNeop8ZabUQhHA4g/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/pittsfield-preserve-public-park-pittsfield-charter-township?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 3,
-      "categories": [
-        { "alias": "hiking", "title": "Hiking" },
-        { "alias": "parks", "title": "Parks" }
-      ],
-      "rating": 4.5,
-      "coordinates": { "latitude": 42.250884, "longitude": -83.722697 },
-      "transactions": [],
-      "location": {
-        "address1": "Thomas Rd",
-        "address2": "",
-        "address3": "",
-        "city": "Pittsfield charter Township",
-        "zip_code": "48108",
-        "country": "US",
-        "state": "MI",
-        "display_address": [
-          "Thomas Rd",
-          "Pittsfield charter Township, MI 48108"
-        ]
-      },
-      "phone": "+17348222120",
-      "display_phone": "(734) 822-2120",
-      "distance": 2945.13061741882
-    },
-    {
-      "id": "0b27DQCoJd9ZqtnIPb-phA",
-      "alias": "wave-field-ann-arbor",
-      "name": "Wave Field",
-      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/U0wTGL4o1feEezwTWTkagw/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/wave-field-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 4,
-      "categories": [{ "alias": "parks", "title": "Parks" }],
-      "rating": 4.5,
-      "coordinates": { "latitude": 42.293191, "longitude": -83.711698 },
-      "transactions": [],
-      "location": {
-        "address1": "Next To Francois Xavier Bagnoud Building Univ Of Mich",
-        "address2": "",
-        "address3": "North Campus 1320 Beal Avenue",
-        "city": "Ann Arbor",
-        "zip_code": "48109",
-        "country": "US",
-        "state": "MI",
-        "display_address": [
-          "Next To Francois Xavier Bagnoud Building Univ Of Mich",
-          "North Campus 1320 Beal Avenue",
-          "Ann Arbor, MI 48109"
-        ]
-      },
-      "phone": "",
-      "display_phone": "",
-      "distance": 3433.048666243541
-    },
-    {
-      "id": "n4CUNApBKwudvx00Y0mu4w",
-      "alias": "the-dinnerware-museum-ann-arbor",
-      "name": "The Dinnerware Museum",
-      "image_url": "",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/the-dinnerware-museum-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 1,
-      "categories": [{ "alias": "museums", "title": "Museums" }],
-      "rating": 4.0,
-      "coordinates": { "latitude": 42.285101, "longitude": -83.7481192 },
-      "transactions": [],
-      "location": {
-        "address1": "500 N Main St",
-        "address2": "",
-        "address3": "",
-        "city": "Ann Arbor",
-        "zip_code": "48103",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["500 N Main St", "Ann Arbor, MI 48103"]
-      },
-      "phone": "+16073821415",
-      "display_phone": "(607) 382-1415",
-      "distance": 1440.570904073797
-    },
-    {
       "id": "7FWVd0tbumfAruK42qfAFw",
       "alias": "ahmos-gyro-and-deli-ann-arbor-2",
       "name": "Ahmo's Gyro & Deli",
@@ -11996,42 +10857,6 @@
       "phone": "+17343699944",
       "display_phone": "(734) 369-9944",
       "distance": 2929.1767640496187
-    },
-    {
-      "id": "AuLdDmfGa3TLtvtnGMSd8w",
-      "alias": "cedar-bend-nature-area-ann-arbor",
-      "name": "Cedar Bend Nature Area",
-      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ypNctSm-Iwx2XrE53gIzfw/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/cedar-bend-nature-area-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 1,
-      "categories": [
-        { "alias": "parks", "title": "Parks" },
-        { "alias": "hiking", "title": "Hiking" }
-      ],
-      "rating": 5.0,
-      "coordinates": {
-        "latitude": 42.2913448131355,
-        "longitude": -83.7263797478545
-      },
-      "transactions": [],
-      "location": {
-        "address1": "Cedar Bend Park",
-        "address2": "Island Dr",
-        "address3": null,
-        "city": "Ann Arbor",
-        "zip_code": "48105",
-        "country": "US",
-        "state": "MI",
-        "display_address": [
-          "Cedar Bend Park",
-          "Island Dr",
-          "Ann Arbor, MI 48105"
-        ]
-      },
-      "phone": "",
-      "display_phone": "",
-      "distance": 2478.6011280053085
     },
     {
       "id": "Wwbee8TUtd1iclqVdBt5ww",
@@ -12126,90 +10951,6 @@
       "distance": 2929.1866585569937
     },
     {
-      "id": "qFU_3drs_PCxd0QL4JrJXQ",
-      "alias": "liberty-plaza-ann-arbor",
-      "name": "Liberty Plaza",
-      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZTZEjRKQcd0iLTyOJeyqeQ/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/liberty-plaza-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 1,
-      "categories": [{ "alias": "parks", "title": "Parks" }],
-      "rating": 4.0,
-      "coordinates": {
-        "latitude": 42.279273686804,
-        "longitude": -83.7443754180825
-      },
-      "transactions": [],
-      "location": {
-        "address1": "Corner Of Division And Liberty",
-        "address2": "",
-        "address3": "",
-        "city": "Ann Arbor",
-        "zip_code": "48104",
-        "country": "US",
-        "state": "MI",
-        "display_address": [
-          "Corner Of Division And Liberty",
-          "Ann Arbor, MI 48104"
-        ]
-      },
-      "phone": "",
-      "display_phone": "",
-      "distance": 737.6945791637083
-    },
-    {
-      "id": "YE1CQvv8Bm33LjLRNrfqAQ",
-      "alias": "alley-art-2-ann-arbor",
-      "name": "Alley Art 2",
-      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Fc6p0KGEzzBzTjp2SBQJTQ/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/alley-art-2-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 1,
-      "categories": [{ "alias": "localflavor", "title": "Local Flavor" }],
-      "rating": 5.0,
-      "coordinates": { "latitude": 42.27508, "longitude": -83.733128 },
-      "transactions": [],
-      "location": {
-        "address1": "University Ave",
-        "address2": "",
-        "address3": "",
-        "city": "Ann Arbor",
-        "zip_code": "48113",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["University Ave", "Ann Arbor, MI 48113"]
-      },
-      "phone": "",
-      "display_phone": "",
-      "distance": 848.9436908418428
-    },
-    {
-      "id": "pjT2z1h-EWfZY9Gyh3wQAg",
-      "alias": "michigan-artrain-ann-arbor",
-      "name": "Michigan Artrain",
-      "image_url": "",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/michigan-artrain-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 1,
-      "categories": [{ "alias": "museums", "title": "Museums" }],
-      "rating": 5.0,
-      "coordinates": { "latitude": 42.2925593, "longitude": -83.7469766 },
-      "transactions": [],
-      "location": {
-        "address1": "1100 N Main St",
-        "address2": "Ste 106",
-        "address3": "",
-        "city": "Ann Arbor",
-        "zip_code": "48104",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["1100 N Main St", "Ste 106", "Ann Arbor, MI 48104"]
-      },
-      "phone": "+17347478300",
-      "display_phone": "(734) 747-8300",
-      "distance": 2305.3249314998725
-    },
-    {
       "id": "vEHFralwUQAMKk-gyifvLw",
       "alias": "burger-house-ann-arbor",
       "name": "Burger House",
@@ -12276,36 +11017,6 @@
       "distance": 1832.4727884457536
     },
     {
-      "id": "aGz3K7noixE2TX017Lahug",
-      "alias": "fast-fido-dog-day-trips-ann-arbor",
-      "name": "Fast Fido Dog Day Trips",
-      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/B7JL3aGPUb00qkq3Q6obMA/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/fast-fido-dog-day-trips-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 2,
-      "categories": [
-        { "alias": "dogwalkers", "title": "Dog Walkers" },
-        { "alias": "dog_parks", "title": "Dog Parks" },
-        { "alias": "petboarding", "title": "Pet Boarding" }
-      ],
-      "rating": 3.0,
-      "coordinates": { "latitude": 42.26586, "longitude": -83.83386 },
-      "transactions": [],
-      "location": {
-        "address1": null,
-        "address2": "",
-        "address3": null,
-        "city": "Ann Arbor",
-        "zip_code": "48103",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["Ann Arbor, MI 48103"]
-      },
-      "phone": "+17343281100",
-      "display_phone": "(734) 328-1100",
-      "distance": 7391.411839938853
-    },
-    {
       "id": "zer41Q5CH95h-aW9w9r9mw",
       "alias": "7-eleven-ann-arbor-3",
       "name": "7-Eleven",
@@ -12337,110 +11048,6 @@
       "phone": "+17349977008",
       "display_phone": "(734) 997-7008",
       "distance": 858.3563685146881
-    },
-    {
-      "id": "3t38TV74pwIj0eAt3PeZrA",
-      "alias": "plymouth-way-park-ann-arbor",
-      "name": "Plymouth Way Park",
-      "image_url": "",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/plymouth-way-park-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 1,
-      "categories": [{ "alias": "parks", "title": "Parks" }],
-      "rating": 2.0,
-      "coordinates": { "latitude": 42.292051, "longitude": -83.736933 },
-      "transactions": [],
-      "location": {
-        "address1": "1101 Plymouth Rd",
-        "address2": "",
-        "address3": null,
-        "city": "Ann Arbor",
-        "zip_code": "48105",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["1101 Plymouth Rd", "Ann Arbor, MI 48105"]
-      },
-      "phone": "",
-      "display_phone": "",
-      "distance": 2204.490837893868
-    },
-    {
-      "id": "EpX2073YRSUblcwK3ZDFmQ",
-      "alias": "stone-school-park-ann-arbor",
-      "name": "Stone School Park",
-      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pxhK3BNu3UOl7WSjnUR60w/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/stone-school-park-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 1,
-      "categories": [{ "alias": "parks", "title": "Parks" }],
-      "rating": 2.0,
-      "coordinates": { "latitude": 42.2450984, "longitude": -83.7200249 },
-      "transactions": [],
-      "location": {
-        "address1": "2900 Stone School Rd",
-        "address2": "",
-        "address3": null,
-        "city": "Ann Arbor",
-        "zip_code": "48104",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["2900 Stone School Rd", "Ann Arbor, MI 48104"]
-      },
-      "phone": "",
-      "display_phone": "",
-      "distance": 3487.261394773752
-    },
-    {
-      "id": "jb24vgqepGvA8d2XslejLg",
-      "alias": "wellington-park-ann-arbor",
-      "name": "Wellington Park",
-      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qmuisMFcZKK5STIEZLadzQ/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/wellington-park-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 1,
-      "categories": [{ "alias": "parks", "title": "Parks" }],
-      "rating": 3.0,
-      "coordinates": { "latitude": 42.2869697, "longitude": -83.7727781 },
-      "transactions": [],
-      "location": {
-        "address1": "500 Bruce St",
-        "address2": "",
-        "address3": null,
-        "city": "Ann Arbor",
-        "zip_code": "48103",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["500 Bruce St", "Ann Arbor, MI 48103"]
-      },
-      "phone": "",
-      "display_phone": "",
-      "distance": 2936.3995160982
-    },
-    {
-      "id": "P4vcK11GF4mC2J5t0lRA3Q",
-      "alias": "brookside-park-ann-arbor",
-      "name": "Brookside Park",
-      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TlCFyzk4jLL_B4YibJcRcQ/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/brookside-park-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 1,
-      "categories": [{ "alias": "parks", "title": "Parks" }],
-      "rating": 3.0,
-      "coordinates": { "latitude": 42.2445599, "longitude": -83.7196901 },
-      "transactions": [],
-      "location": {
-        "address1": "3001 Stone School Rd",
-        "address2": "",
-        "address3": null,
-        "city": "Ann Arbor",
-        "zip_code": "48104",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["3001 Stone School Rd", "Ann Arbor, MI 48104"]
-      },
-      "phone": "",
-      "display_phone": "",
-      "distance": 3631.9830245266116
     },
     {
       "id": "XkmaEFxPRUBm-Uu8e9cu0A",
@@ -12496,35 +11103,6 @@
       "distance": 2069.8846216990232
     },
     {
-      "id": "xTly9TM79YlQb8fGSo6Vgw",
-      "alias": "maryfield-wildwood-park-ann-arbor",
-      "name": "Maryfield Wildwood Park",
-      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zSUIT5d_1WLdOXyelrxwEQ/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/maryfield-wildwood-park-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 2,
-      "categories": [{ "alias": "parks", "title": "Parks" }],
-      "rating": 4.0,
-      "coordinates": {
-        "latitude": 42.28423797259805,
-        "longitude": -83.76867404110446
-      },
-      "transactions": [],
-      "location": {
-        "address1": "1705 Linwood Ave",
-        "address2": "",
-        "address3": null,
-        "city": "Ann Arbor",
-        "zip_code": "48103",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["1705 Linwood Ave", "Ann Arbor, MI 48103"]
-      },
-      "phone": "",
-      "display_phone": "",
-      "distance": 2473.9440787391313
-    },
-    {
       "id": "Y6DbIcu2WjIzezp23pxXeg",
       "alias": "motor-city-franks-pleasant-ridge-2",
       "name": "Motor City Franks",
@@ -12557,32 +11135,6 @@
       "distance": 53904.99387650378
     },
     {
-      "id": "odi32rKOiWuYc1lFwrdOiA",
-      "alias": "broadway-dog-park-ann-arbor",
-      "name": "Broadway Dog Park",
-      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cJF9hGpv2SvGZPdVSkRMeg/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/broadway-dog-park-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 3,
-      "categories": [{ "alias": "dog_parks", "title": "Dog Parks" }],
-      "rating": 3.5,
-      "coordinates": { "latitude": 42.287514, "longitude": -83.740369 },
-      "transactions": [],
-      "location": {
-        "address1": "Canal St",
-        "address2": "",
-        "address3": null,
-        "city": "Ann Arbor",
-        "zip_code": "48105",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["Canal St", "Ann Arbor, MI 48105"]
-      },
-      "phone": "",
-      "display_phone": "",
-      "distance": 1658.07352502057
-    },
-    {
       "id": "d6JFIeFSoRVq8ygS9QKaxA",
       "alias": "wolverine-sushi-bar-ann-arbor-3",
       "name": "Wolverine Sushi Bar",
@@ -12607,35 +11159,6 @@
       "phone": "",
       "display_phone": "",
       "distance": 900.8160276072865
-    },
-    {
-      "id": "QbSCJ5OvkfXqbfsu7PSkFQ",
-      "alias": "eberbach-cultural-arts-center-ann-arbor",
-      "name": "Eberbach Cultural Arts Center",
-      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/dbjhHjbPVS6xtoOgMfL7Sw/o.jpg",
-      "is_closed": false,
-      "url": "https://www.yelp.com/biz/eberbach-cultural-arts-center-ann-arbor?adjust_creative=l2aufWhN6l2r3r_kawBrLA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=l2aufWhN6l2r3r_kawBrLA",
-      "review_count": 1,
-      "categories": [
-        { "alias": "theater", "title": "Performing Arts" },
-        { "alias": "localflavor", "title": "Local Flavor" }
-      ],
-      "rating": 3.0,
-      "coordinates": { "latitude": 42.2665672, "longitude": -83.7327576 },
-      "transactions": [],
-      "location": {
-        "address1": "1220 S Forest Ave",
-        "address2": "",
-        "address3": "",
-        "city": "Ann Arbor",
-        "zip_code": "48104",
-        "country": "US",
-        "state": "MI",
-        "display_address": ["1220 S Forest Ave", "Ann Arbor, MI 48104"]
-      },
-      "phone": "+17349942900",
-      "display_phone": "(734) 994-2900",
-      "distance": 1085.9609820055425
     },
     {
       "id": "xE2I0C6uWcx2mstg-j45yA",

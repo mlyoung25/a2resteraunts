@@ -1,28 +1,43 @@
 ---
 interface Props {
-	title: string;
-	body: string;
 	href: string;
+	title: string;
+	imgSrc: string;
+	body: string;
+	rating: string;
+	price: string;
 }
 
-const { href, title, body } = Astro.props;
+const { href, title, body, rating, price, imgSrc } = Astro.props;
 ---
 
 <li class="link-card">
-	<a href={href}>
-		<h2>
-			{title}
-			<span>&rarr;</span>
-		</h2>
-		<p>
-			{body}
-		</p>
-	</a>
+    <a href={href}>
+        <div class="card-body">
+            <h2>
+            {title}
+            <span>&rarr;</span>
+            </h2>
+            <p>
+            {body}
+            </p>
+            <p>
+            {rating}
+            </p>
+            <p>
+            {price}
+            </p>
+            <input type="checkbox" id="visited" name="visited">
+            <label for="visited">Visited</label><br>
+        </div>
+        <img src={imgSrc} alt={title}/>
+    </a>
 </li>
 <style>
 	.link-card {
 		list-style: none;
 		display: flex;
+		width: 40rem;
 		padding: 1px;
 		background-color: #23262d;
 		background-image: none;
@@ -31,8 +46,13 @@ const { href, title, body } = Astro.props;
 		background-position: 100%;
 		transition: background-position 0.6s cubic-bezier(0.22, 1, 0.36, 1);
 		box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.1);
+		margin-top: 20px;
+		margin-bottom: 20px;
 	}
 	.link-card > a {
+		display: flex;
+        flex-direction: row-reverse;
+        justify-content: space-around;
 		width: 100%;
 		text-decoration: none;
 		line-height: 1.4;
@@ -42,6 +62,11 @@ const { href, title, body } = Astro.props;
 		background-color: #23262d;
 		opacity: 0.8;
 	}
+	img {
+		width: 200px;
+		height: 200px;
+		object-fit: cover;
+    }
 	h2 {
 		margin: 0;
 		font-size: 1.25rem;
